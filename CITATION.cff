@@ -1,0 +1,27 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+type: software
+title: "A Clarity-Principle-Based Knowledge Refinement System for High-Stakes AI Applications"
+authors:
+  - family-names: "[Your Last Name]"
+    given-names: "[Your First Name]"
+    orcid: "https://orcid.org/0000-0000-0000-0000" # Replace with your ORCID
+    affiliation: "[Your Institution]"
+repository-code: "https://github.com/yourusername/clarity-principle-system"
+url: "https://github.com/yourusername/clarity-principle-system"
+abstract: >
+  This repository contains the implementation and experimental data for a novel
+  knowledge refinement framework that reinterprets Cartesian skepticism from an
+  engineering perspective to address hallucinations in Large Language Models (LLMs).
+  The system achieves <1% hallucination rate through a three-tier persona architecture
+  with asynchronous reset mechanisms.
+keywords:
+  - Large Language Models
+  - Hallucination Mitigation
+  - Multi-Agent Systems
+  - Cartesian Skepticism
+  - Knowledge Refinement
+  - AI Safety
+license: MIT
+version: 1.0.0
+date-released: 2025-01-29
