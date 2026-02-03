@@ -1,0 +1,17 @@
+BY-NC (Personal use allowed. Commercial use prohibited. Attribution required.)
+Copyright (c) 2026 Cheongwon Choi
+
+Permission is hereby granted, free of charge for personal and non-commercial use only, 
+to any person obtaining a copy of this software and associated documentation files 
+(the "Software"), subject to the following conditions:
+
+Attribution: The above copyright notice and this permission notice (including the 
+author's name) shall be included in all copies or substantial portions of the Software.
+
+Non-Commercial Use: The Software may not be used, copied, modified, merged, published, 
+distributed, or sold for any commercial purposes. Commercial use of the Software without 
+prior written permission from the copyright holder is strictly prohibited.
+
+No Warranty: THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND. 
+IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, 
+DAMAGES OR OTHER LIABILITY.
